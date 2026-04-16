@@ -47,7 +47,7 @@ This repository contains code and data for a simulation-based study of small are
 Core functions for estimation methods and data construction:
 
 - `directEST_national.R`: design-based direct estimator
-- `fhModel_new.R`: Fay–Herriot area-level model (INLA)
+- `fhModel_new.R`: Fay–Herriot area-level model
 - `clusterModel_new.R`: unit-level hierarchical model
 - `helper.r`: supporting functions
 - `k0_5_pop.r`: downloading and creating for the under-5 (k0–5) population from worldPop.
